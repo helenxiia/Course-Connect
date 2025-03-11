@@ -1,6 +1,8 @@
 # Course Connect
 CS 348: Introduction to Database Systems Spring 2023 Group Project
 
+
+
 Members: Helen Xia, Jasmine Xu, Sohom Ghosh, Kevin Zhang
 
 ### Current Features that the application supports
@@ -34,6 +36,10 @@ in the database. (Implemented in app.py, index.html, signup.html and login.html,
 
 6. Displays the highest-rated courses in the web application. Users can see this by clicking the "View Top Rated Courses"
 button on the homepage. Implemented in index.html, charts.html, and app.py
+
+### ER Diagram
+
+<img width="625" alt="image" src="https://github.com/user-attachments/assets/9e6aedad-6c3d-4fb9-adc3-5af8005a985d" />
 
 ### Fancy Features 
 Final / Demo
